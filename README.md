@@ -23,3 +23,14 @@ Comando: docker run -d --name nginx-dani -p 80:80 -v ~/nginx/dani.test/html:/usr
 
 ### 2.2 - Restricción independiente
 ![Imagen de tarea 2.2](./img/006.png)
+
+## Tarea 3
+
+¡Importante: Cambia la IP de la configuración por la de tu anfitrión!
+### 3.1 - Restricción por IP
+
+#### Configuración
+![Imagen de tarea 3.1 configuración](./img/007.png)
+
+#### Error
+![Imagen de tarea 3.1 error](./img/008.png)
