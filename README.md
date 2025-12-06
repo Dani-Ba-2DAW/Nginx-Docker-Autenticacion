@@ -20,3 +20,6 @@ Comando: docker run -d --name nginx-dani -p 80:80 -v ~/nginx/dani.test/html:/usr
 
 ### 2.1 - Logs
 ![Imagen de tarea 2.1](./img/005.png)
+
+### 2.2 - Restricción independiente
+![Imagen de tarea 2.2](./img/006.png)
