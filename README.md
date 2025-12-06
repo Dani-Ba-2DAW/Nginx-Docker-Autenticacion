@@ -34,3 +34,12 @@ Comando: docker run -d --name nginx-dani -p 80:80 -v ~/nginx/dani.test/html:/usr
 
 #### Error
 ![Imagen de tarea 3.1 error](./img/008.png)
+
+### 3.2 - Restricción por IP y Usuario
+¡El punto explicado en el apartado 2.3 es más o menos lo mismo que esto!
+
+#### Configuración
+![Imagen de tarea 3.2 configuración](./img/009.png)
+
+#### Acceso sin problemas
+![Imagen de tarea 3.2 acceso](./img/010.png)
